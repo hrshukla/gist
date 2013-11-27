@@ -1,7 +1,3 @@
-//SETTINGS - NEEDS TO BE CHANGED
-//var WEBHOOK_START = "";
-//var WEBHOOK_STOP = "";
-//END
 
 //Check if tracking is ON
 if(localStorage.tracking == 1) {	// Tracking on
